@@ -1,5 +1,4 @@
-# Silent User Frustration Detection using Behavioral Analytics and Machine Learning
-
+# AI-Based User Frustration Analysis in Web Applications
 ## Author(s):
 
 Nikita Nagfase
